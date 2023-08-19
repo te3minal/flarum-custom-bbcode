@@ -4,6 +4,6 @@
     "type": "flarum-extension",
     "minimum-stability": "dev",
     "require": {
-        "flarum/core": "^1.8"
+        "flarum/core": "^1.0.0"
     }
 }

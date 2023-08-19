@@ -1,5 +1,5 @@
 {
-    "name": "acme/flarum-custom-bbcode",
+    "name": "te3minal/flarum-custom-bbcode",
     "description": "Custom BBCode extension for Flarum",
     "type": "flarum-extension",
     "minimum-stability": "dev",

@@ -1,0 +1,9 @@
+{
+    "name": "acme/flarum-custom-bbcode",
+    "description": "Custom BBCode extension for Flarum",
+    "type": "flarum-extension",
+    "minimum-stability": "dev",
+    "require": {
+        "flarum/core": "^1.8"
+    }
+}

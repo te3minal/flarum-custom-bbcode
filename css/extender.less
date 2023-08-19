@@ -1,0 +1,23 @@
+.glow-gold {
+    /* Define your desired glowing and shining styles */
+    animation: glow 1s ease-in-out infinite alternate,
+               shine 1s linear infinite;
+}
+
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 5px gold;
+    }
+    100% {
+        text-shadow: 0 0 20px gold;
+    }
+}
+
+@keyframes shine {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
